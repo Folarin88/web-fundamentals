@@ -1,0 +1,18 @@
+The web,when viewed from the outside,simply connects content providers to end users.the great thing about the Web is that a worldwide audience can be connected to content without licensing fee of any sort.Anyone can put up a website,and hundreds of millions of people can see it.
+   While the internet provides unprecedented connectivity.it also from instability and unpredictable performance.
+
+WHAT DO YOU NEED TO BE A WEB DEVELOPER?
+	•	Computer literacy
+	•	Strong numeracy skills
+	•	Strong creative ability
+	•	Attention to detail
+	•	Strong communication skills
+	•	Excellent problem-solving skills
+	•	A logical approach to work
+	•	The ability to explain technical matters clearly
+	•	A keen interest in technology
+Ongoing self-learning is key to developing in a web development role, in order to stay up to date with ever more frequent technological advancements and updates.
+
+WHAT IS THE ROLE OF  A WEB DEVELOPER 
+
+Web developers are responsible for programming the code that 'tells' a website how to function. They build websites that are 'user friendly', which means they are easy to navigate for those using them.
